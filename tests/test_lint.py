@@ -1,5 +1,3 @@
-import os
-import pytest
 from sshcfg_lint import lint, main
 
 
